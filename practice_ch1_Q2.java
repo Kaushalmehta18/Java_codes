@@ -1,3 +1,4 @@
+// WAP to calculate CGPA using marks of three subject
 import java.util.Scanner;
 
 public class practice_ch1_Q2 {
