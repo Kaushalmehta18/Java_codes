@@ -1,3 +1,4 @@
+// WAP which ask user name and greats with Hello <name> , have a good day
 import java.util.Scanner;
 
 public class practice_ch1_Q3 {
