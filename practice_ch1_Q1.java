@@ -1,3 +1,4 @@
+// WAP to sum of three numbers
 import java.util.Scanner;
 
 public class practise_ch1_Q1 {
